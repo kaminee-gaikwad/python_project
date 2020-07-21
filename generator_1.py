@@ -1,17 +1,17 @@
 users=[
     {
-        'name' : 'john',
+        'name' : 'john***',
         'age' : 17,
         'favourite_sport' : 'football'
     },
     {
-        'name' : 'ram',
+        'name' : 'ram***',
         'age' : 18,
         'favourite_sport' : 'basketball'
     },
 
     {
-        'name' : 'mona',
+        'name' : 'mona**',
         'age' : 19,
         'favourite_sport' : 'cricket'
     }
